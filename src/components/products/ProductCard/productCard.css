@@ -1,0 +1,15 @@
+  hr {
+    border: 0;
+    height: 3px;
+    width: 30px;
+    background-color: #cf092c;
+    margin: 22px 0 20px;
+  }
+
+.product__image {
+  object-fit: contain !important;
+  height: 150px;
+  margin: auto !important;
+  width: 150px;
+}
+  
